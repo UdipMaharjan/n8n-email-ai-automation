@@ -94,7 +94,7 @@ information, and records it in Google Sheets.
 
 ## Workflow Screenshot
 
-![n8n Workflow](screenshots/n8n-workflow.png)
+![n8n Workflow](Screenshots/n8n-workflow.png)
 
 ## Project Purpose
 
